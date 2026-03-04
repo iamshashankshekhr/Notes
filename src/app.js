@@ -1,0 +1,16 @@
+require("dotenv").config
+
+const express = require("express");
+const app = express();
+
+
+app.use(expree.json())
+
+
+
+
+
+
+
+
+module.exports = app;
